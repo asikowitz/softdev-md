@@ -25,7 +25,7 @@ A blog that in which people can create posts and comment on those posts, with da
   * 5/login/sydney_andrew/
  * regexp
   * Andrew Sikowitz, Adriel Mendoza
-	* 5/regexp/adriel_andrew/
+  * 5/regexp/adriel_andrew/
  * intro-proj 1
   * Andrew Sikowitz, David Bang
   * 6/intro-proj1/andrew-sikowitz_david-bang/
