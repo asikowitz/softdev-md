@@ -20,7 +20,7 @@ A blog that in which people can create posts and comment on those posts, with da
 
 ## Mini Projects
 
- * login
+ * login (using mongo)
   * Andrew Sikowitz, Sydney Caputo
   * 5/login/sydney_andrew/
  * regexp
