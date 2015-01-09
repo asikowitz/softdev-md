@@ -6,6 +6,12 @@ Period 5
 
 ## Main Projects
 
+### Final Project: Stuy App
+#### Andrew Sikowitz, Alex Zilbersher, Abrar Ahmed
+#### Description
+Unfinished web page that will help students in the class change process.
+#### https://github.com/abrarahmed56/StuyApp.git
+
 ### Data Scraping
 #### Andrew Sikowitz, Miranda Chaiken, Junhao Dong, Nathaniel Brassell
 #### Description
@@ -23,12 +29,6 @@ A blog that in which people can create posts and comment on those posts, with da
 #### Description
 A website that gives you a random beer and my little pony picture, using the breweryDB and ponyfac apis.
 #### https://github.com/BigHatMan/thebronies.git
-
-### Final Project: Stuy App
-#### Andrew Sikowitz, Alex Zilbersher, Abrar Ahmed
-#### Description
-Unfinished web page that will help students in the class change process.
-#### https://github.com/abrarahmed56/StuyApp.git
 
 ## Mini Projects
 
